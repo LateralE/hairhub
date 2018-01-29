@@ -1364,7 +1364,7 @@ body {
   min-height: 100vh;
 }
 .cid-qCTe9biRDe {
-  background-color: #f9f9f9;
+  background-image: url("../../../assets/images/mbr-3.jpg");
 }
 .cid-qCTe9biRDe .mbr-media span {
   font-size: 48px;
@@ -1448,7 +1448,7 @@ body {
 }
 .cid-qCTiccjkeL .timeline-text-content {
   padding: 2rem 2.5rem;
-  background: #c5e2ff;
+  background: #ffd07b;
   margin-right: 2rem;
   transition: all .4s;
 }
@@ -1485,7 +1485,7 @@ body {
   text-align: center;
   border-radius: 50%;
   display: inline-block;
-  background-color: #c5e2ff;
+  background-color: #ffd07b;
   top: 20px;
   margin-left: -30px;
 }
@@ -1504,7 +1504,7 @@ body {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #c5e2ff;
+  background-color: #ffd07b;
   left: calc(50% - 1px);
   height: calc(100% + 4rem);
 }
@@ -1527,7 +1527,7 @@ body {
   color: #296eb4;
 }
 .cid-qCTiccjkeL .mbr-timeline-title {
-  color: #2f8cff;
+  color: #296eb4;
 }
 .cid-qCTiccjkeL .mbr-timeline-text {
   color: #232323;
@@ -1693,57 +1693,10 @@ body {
   color: #2f8cff;
 }
 .cid-qDJk1FSwQP .mbr-crt-title {
-  color: #e81b00;
+  color: #fdb833;
 }
 .cid-qDJk1FSwQP .mbr-crt-title B {
   color: #ff6718;
-}
-.cid-qDJqTOJAYS {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #c5e2ff;
-  position: relative;
-}
-.cid-qDJqTOJAYS .card {
-  border-radius: 0px;
-  margin-bottom: -1px;
-}
-.cid-qDJqTOJAYS .card .card-header {
-  border-radius: 0px;
-  border: 0px;
-  padding: 0;
-}
-.cid-qDJqTOJAYS .card .card-header a.panel-title {
-  margin-bottom: 0;
-  font-style: normal;
-  font-weight: 500;
-  display: block;
-  text-decoration: none !important;
-  margin-top: -1px;
-  line-height: normal;
-}
-.cid-qDJqTOJAYS .card .card-header a.panel-title:focus {
-  text-decoration: none !important;
-}
-.cid-qDJqTOJAYS .card .card-header a.panel-title h4 {
-  padding: 1.3rem 2rem;
-  border: 1px solid #dfdfdf;
-  margin-bottom: 0;
-}
-.cid-qDJqTOJAYS .card .card-header a.panel-title h4 .sign {
-  padding-right: 1rem;
-}
-.cid-qDJqTOJAYS .card .panel-body {
-  color: #767676;
-}
-.cid-qDJqTOJAYS H2 {
-  color: #2f8cff;
-}
-.cid-qDJqTOJAYS SPAN {
-  color: #2f8cff;
-}
-.cid-qDJqTOJAYS H4 {
-  color: #2e2e2e;
 }
 .cid-qDJuo2NuYG {
   padding-top: 30px;
