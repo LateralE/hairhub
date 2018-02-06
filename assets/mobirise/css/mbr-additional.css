@@ -1511,14 +1511,14 @@ body {
   transition: all .5s;
 }
 .cid-qITad3JV0w .nav-tabs .nav-link:hover {
-  background-color: #b1740f;
+  background-color: #ffd07b;
 }
 .cid-qITad3JV0w .nav-tabs .nav-link.active {
   font-weight: 500;
-  color: #ffffff;
+  color: #000000;
   font-style: normal;
   border: none;
-  background: #b1740f;
+  background: #ffd07b;
 }
 .cid-qITad3JV0w .nav-tabs .nav-link.active:hover {
   border: none;
@@ -1584,7 +1584,7 @@ body {
 }
 .cid-qCTx08B9sT .price-figure {
   font-weight: 700;
-  color: #e81b00;
+  color: #296eb4;
 }
 .cid-qCTx08B9sT .price-value {
   font-weight: 700;
@@ -1620,7 +1620,7 @@ body {
 .cid-qDJk1FSwQP {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-qDJk1FSwQP h2 {
   text-align: center;
