@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hair Transplants",
-    "currentPage": "implants.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -210,7 +210,7 @@
               "color": "#296eb4"
             },
             ".mbr-timeline-title": {
-              "color": "#ffd07b"
+              "color": "#296eb4"
             },
             ".mbr-timeline-text": {
               "color": "#b1740f"
